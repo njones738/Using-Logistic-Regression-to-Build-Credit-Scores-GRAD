@@ -6,17 +6,19 @@ In the Spring of 2022, I took KSU's Applied Binary Classification graduate Cours
 
 The purpose of this report is to maximize the profitability of extending credit to subprime customers. The dataset that the company has provided contained 1,255,429 customers with 340 independent variables. Both SAS and R was used to generate the analysis and the graphics used in this project. A binary variable was created from the customers payment delinquency. After wrangling the data into a structure that is useful to prediction, the number of variables were reduced to find a subset of predictors that achieve the highest concordance and profit. 
 
-The best model overall was achieved a concordant percentage of 85% and acquired a $114,540 profit per 1,000 customers (Table 23). If the company desires a more parsimonious model, then the model using six variables would be the best choice. The six variable model achieved $112,082 profit per 1,000 customers and a concordant percentage of 83.9%. Using less variables will significantly impact the profitability of the model (Figure 18a and 18b).
-
 ### __Tools used__     
+
 * SAS  
 * Python
 * R
 * Excel  
 
 ### __Results__    
-* TBD  
-* TBD  
+
+The best model overall was achieved a concordant percentage of 85% and acquired a $114,540 profit per 1,000 customers (Table 23). If the company desires a more parsimonious model, then the model using six variables would be the best choice. The six variable model achieved $112,082 profit per 1,000 customers and a concordant percentage of 83.9%. Using less variables will significantly impact the profitability of the model (Figure 18a and 18b).
+
+!["image 1"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/data/images/exec_sum_img1.JPG)
+!["image 2"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/data/images/exec_sum_img2.JPG)
 
 ## Folder structure
 
@@ -35,9 +37,8 @@ The best model overall was achieved a concordant percentage of 85% and acquired 
 
 ## Deliverables
 
-* TBD     
-* TBD     
-* TBD     
+* Binary Classification Modeling Final Report     
+* Choice Exploration in Data Wrangling and the Information Corral     
 
 ## Data sources
 
