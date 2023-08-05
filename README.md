@@ -1,6 +1,6 @@
 # Using Logistic Regression to Build Credit Scores
 
-In the Spring of 2022, I took KSU's Applied Binary Classification graduate Course taught by Dr. Jennifer Priestley sponsored by Equifax. This course used data provided by Equifax to predict which custmers were a good or bad credit risk. A copy of the report is provided in this repo and can be downloaded [here]().
+In the Spring of 2022, I took KSU's Applied Binary Classification graduate Course taught by Dr. Jennifer Priestley sponsored by Equifax. This course used data provided by Equifax to predict which custmers were a good or bad credit risk. A copy of the report is provided in this repo and can be downloaded [here](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/deliverables/Binary.Classification.Modeling.Final.Deliverable.SPR22.pdf).
 
 ### __Project Purpose__    
 
@@ -37,8 +37,8 @@ The best model overall was achieved a concordant percentage of 85% and acquired 
 
 ## Deliverables
 
-* Binary Classification Modeling Final Report     
-* Choice Exploration in Data Wrangling and the Information Corral     
+* ["Binary Classification Modeling Final Report"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/deliverables/Binary.Classification.Modeling.Final.Deliverable.SPR22.pdf)     
+* ["Choice Exploration in Data Wrangling and the Information Corral"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/deliverables/Analytics.Day.PosterSPR22.pdf)     
 
 ## Data sources
 
