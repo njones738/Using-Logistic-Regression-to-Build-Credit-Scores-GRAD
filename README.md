@@ -24,14 +24,14 @@ The best model overall was achieved a concordant percentage of 85% and acquired 
 
 ```
 - readme.md
-- scripts
----- readme.md
----- 
 - data
 ---- readme.md
+---- images
 ---- 
-- documents
+- deliverables
 ---- readme.md
+---- Choice.Exploration.in.Data.Wrangling.and.the.Information.Corral.pdf
+---- Binary.Classification.Modeling.Final.Deliverable.SPR22.pdf
 ---- 
 ```
 
@@ -39,21 +39,3 @@ The best model overall was achieved a concordant percentage of 85% and acquired 
 
 * ["Binary Classification Modeling Final Report"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/deliverables/Binary.Classification.Modeling.Final.Deliverable.SPR22.pdf)     
 * ["Choice Exploration in Data Wrangling and the Information Corral"](https://github.com/njones738/Using-Logistic-Regression-to-Build-Credit-Scores-GRAD/blob/main/deliverables/Analytics.Day.PosterSPR22.pdf)     
-
-## Data sources
-
-* TBD     
-* TBD     
-* TBD     
-
-## Github pages
-
-* TBD     
-* TBD     
-* TBD     
-
-## Questions
-
-* TBD     
-* TBD     
-* TBD     
